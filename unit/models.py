@@ -11,3 +11,14 @@ class Grade(models.Model):
 
 class Class(models.Model):
     pass
+
+class Room(models.Model):
+    pass
+
+class Bus(models.Model):
+    pass
+
+class Driver(models.Model):
+    pass
+
+

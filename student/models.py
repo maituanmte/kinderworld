@@ -1,3 +1,11 @@
 from django.db import models
 
-# Create your models here.
+class Student(models.Model):
+    pass
+
+class Parent(models.Model):
+    pass
+
+class Contact(models.Model):
+    pass
+
